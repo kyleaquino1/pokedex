@@ -1,3 +1,5 @@
-# POKEDEX Swift 3 Practice App!
+# Swift 3 Pokedex App for iOS 10
 
-### Header
+### Welcome
+
+This project was extensive practice of using UICollection Views, Search Bars, and using Alamofire to create web requests from API. This served as excellent practice for parsing JSON files and reading API Documentation. 
