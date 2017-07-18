@@ -1,3 +1,3 @@
-#POKEDEX Swift 3 Practice App!
+# POKEDEX Swift 3 Practice App!
 
 ### Header
